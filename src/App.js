@@ -44,7 +44,7 @@ function App() {
                   strokeLinejoin="round"
                 />
               </svg>
-              <span>3</span>
+              <span>5</span>
             </a>
           </div>
         </div>

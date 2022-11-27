@@ -51,7 +51,7 @@ const Home = () => {
     }
   }, [dispatch]);
 
-  useEffect(() => {
+   useEffect(() => {
     setIsLoading(true);
     if (!isSearch.current) {
       axios
